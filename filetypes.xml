@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Performancehandler" type="CLASS" />
+      <mapping pattern="UserControllerTest.java" type="PLAIN_TEXT" />
+      <mapping pattern="Performancehandler.java" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
