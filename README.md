@@ -1,2 +1,1 @@
-# go_bitcoin
-A project of bitcoin server/client implemented by golang
+A Bitcoin project implemented by golang.
